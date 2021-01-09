@@ -11,6 +11,7 @@ jupyterlab = "*"
 numpy = "==1.19.3"
 pandas = "*"
 matplotlib = "*"
+mglearn = "*"
 
 [requires]
 python_version = "3.7"
