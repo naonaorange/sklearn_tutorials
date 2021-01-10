@@ -12,6 +12,7 @@ numpy = "==1.19.3"
 pandas = "*"
 matplotlib = "*"
 mglearn = "*"
+graphviz = "*"
 
 [requires]
 python_version = "3.7"
