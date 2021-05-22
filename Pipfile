@@ -10,6 +10,9 @@ scipy = "*"
 sklearn = "*"
 matplotlib = "*"
 pandas = "*"
+xeus-python = "*"
+graphviz = "*"
+seaborn = "*"
 
 [dev-packages]
 
