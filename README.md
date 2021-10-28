@@ -13,7 +13,7 @@ sklearnを利用した機械学習チュートリアルのリポジトリです�
 
 | Sample | Category | Explaination | Sklearn Function | Colab
 -----------|-------------|-------------|-------------|-------------|
-| [linear_regression.ipynb][10] | 回帰 | 線形モデル、多項式を用いた回帰 | LinearRegression<br/>Ridge<br/>PolynomialFeatures |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matsuolab-edu/dl4us/blob/master/lesson0/lesson0_exercise.ipynb)
+| [linear_regression.ipynb][10] | 回帰 | 線形モデル、多項式を用いた回帰 | LinearRegression<br/>Ridge<br/>PolynomialFeatures |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/naonaorange/sklearn/k_neighbors_binary_classifier.ipynb)
 
 | [logistic_regression_classifier.ipynb][20] | 分類 | ロジスティック回帰モデルを用いた分類 | LogisticRegression
 | [support_vector_machine_classifier.ipynb][21] | 分類 | サポートベクターマシンでの分類 | LinearSVC<br/>SVC
