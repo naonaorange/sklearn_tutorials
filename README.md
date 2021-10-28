@@ -4,20 +4,20 @@ sklearnを利用した機械学習チュートリアルのリポジトリです�
 
 # Precondition
 
-- Python 3.7
+- Python 3.8
 - sklearn 0.24
 
 # Samples
 
-| Sample | Explaination |Function
------------|-------------|-------------|
-| [k_neighbors_binary_classifier.ipynb][0] | K-最近傍法モデルを用いた2項分類のサンプル|
-| [k_neighbors_multi_classifier.ipynb][1] | K-最近傍法モデルを用いた多項分類のサンプル|
-| [k_neighbors_classifier.ipynb][2] | K-最近傍法モデルを用いた多項分類のサンプル|
-| [k_neighbors_regression.ipynb][3] | K-最近傍法モデルを用いた回帰のサンプル|
-| [linear_regression.ipynb][10] | 線形モデル、多項式を用いた回帰サンプル | LinearRegression<br/>Ridge<br/>PolynomialFeatures
-| [logistic_regression_classifier.ipynb][11] | ロジスティック回帰モデルを用いた分類サンプル|LogisticRegression
-| [support_vector_machine_classifier.ipynb][20] | 線形モデルを用いた分類のサンプル|
+| Sample | Category | Explaination |Sklearn Function
+-----------|-------------|-------------|-------------|
+| [linear_regression.ipynb][10] | 回帰 | 線形モデル、多項式を用いた回帰 | LinearRegression<br/>Ridge<br/>PolynomialFeatures
+| [logistic_regression_classifier.ipynb][20] | 分類 | ロジスティック回帰モデルを用いた分類 | LogisticRegression
+| [support_vector_machine_classifier.ipynb][21] | 分類 | サポートベクターマシンでの分類 | LinearSVC<br/>SVC
+| [decision_tree_classifier.ipynb][22] | 分類 | 決定木モデルによる分類 | DecisionTreeClassifier
+| [kmean_clastering.ipynb][23] | 分類 | K-mean法を用いた分類 | KMeans
+| [principal_component_analysis.ipynb][30] | 分析 | 主成分分析 | PCA
+| [dimension_redution.ipynb][31] | 分析 | 次元削除 | LDA<br/>KernelPCA
 
 
 [0]: k_neighbors_binary_classifier.ipynb
@@ -25,6 +25,10 @@ sklearnを利用した機械学習チュートリアルのリポジトリです�
 [2]: k_neighbors_classifier.ipynb
 [3]: k_neighbors_regression.ipynb
 [10]: linear_regression.ipynb
-[11]: logistic_regression_classifier.ipynb
-[20]: support_vector_machine_classifier.ipynb
+[20]: logistic_regression_classifier.ipynb
+[21]: support_vector_machine_classifier.ipynb
+[22]: decision_tree_classifier.ipynb
+[23]: kmean_clastering.ipynb
+[30]: principal_component_analysis.ipynb
+[31]: dimension_redution.ipynb
 
